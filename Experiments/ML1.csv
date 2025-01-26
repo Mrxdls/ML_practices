@@ -1,0 +1,5 @@
+sky,temp,humidity,is_play
+sunny,warm,normal,yes
+sunny,warm,high,yes
+rainy,cold,high,no
+rainy,warm,high,yes
